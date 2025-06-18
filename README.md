@@ -54,3 +54,13 @@ cd 2048-merge-challenge
 2. Open index.html in your browser
 
 ⚠️ No build tools required — it’s a lightweight HTML5 game!
+
+---
+
+## 👋 Made with ❤️ by rgelani
+
+Would you like me to:
+- Add install instructions for Netlify or GitHub Pages?
+- Add contributor guidelines or badges?
+
+Let me know how far you want to take it!

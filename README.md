@@ -32,6 +32,17 @@ Swipe or use arrow keys to merge tiles, score big, and beat the countdown timer!
 
 ---
 
+## 📌 TODO (Upcoming Features)
+
+🔊 Sound effects (merge, game over)
+
+- 🧩 Level progression (Beginner → Expert)
+- 🥇 Leaderboard integration
+- 🎁 Reward system (e.g., share to gain extra time)
+- 📱 Export to Android/iOS via Cordova or Capacitor
+
+---
+
 ## 🛠️ How to Run Locally
 
 1. Clone the repo:

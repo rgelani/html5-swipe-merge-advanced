@@ -3,8 +3,7 @@
 A minimal, fast-paced twist on the classic 2048 game — built with Phaser 3.  
 Swipe or use arrow keys to merge tiles, score big, and beat the countdown timer!
 
-![Game Screenshot](![image](https://github.com/user-attachments/assets/23adc173-0dac-4377-b8cd-e5b060d9f08d)
-) <!-- Replace with actual screenshot if available -->
+![Game Screenshot](https://prnt.sc/HEe77r9W0a0G) <!-- Replace with actual screenshot if available -->
 
 ## 🎮 Live Demo
 

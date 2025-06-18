@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Swipe & Merge</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Swipe & Merge</h1>
+  <div id="scoreboard">
+    <span>Score: <span id="score">0</span></span>
+    <span>Best: <span id="best">0</span></span>
+  </div>
+  <div id="game-container"></div>
+  <button id="restart-btn">Restart</button>
+
+  <div id="game-over" style="display: none;">
+    <div class="overlay-content">
+      <h2>Game Over!</h2>
+      <p>Your score: <span id="final-score"></span></p>
+      <button onclick="restartGame()">Play Again</button>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/phaser@3.70.0/dist/phaser.min.js"></script>
+  <script src="game-config.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

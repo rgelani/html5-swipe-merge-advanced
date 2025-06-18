@@ -37,5 +37,9 @@ Swipe or use arrow keys to merge tiles, score big, and beat the countdown timer!
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/2048-merge-challenge.git
+git clone https://github.com/rgelani/2048-merge-challenge.git
 cd 2048-merge-challenge
+
+2. Open index.html in your browser
+
+⚠️ No build tools required — it’s a lightweight HTML5 game!
